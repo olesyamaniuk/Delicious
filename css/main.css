@@ -477,6 +477,7 @@ a {
   .about-img {
     height: 297px;
     width: 600px;
+    border-radius: 40px;
   }
 }
 .advantages {
